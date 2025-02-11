@@ -1,6 +1,6 @@
 # Mollusketeers
 
-Mollusketeers is a first-person underwater shooter where players compete play divers and marine creatures in a vibrant aquatic arena.
+Mollusketeers is a first-person underwater shooter where players compete as divers and marine creatures in a vibrant aquatic arena.
 
 ## Description
 
