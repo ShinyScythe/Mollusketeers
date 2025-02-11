@@ -72,3 +72,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 Mollusketeers/Library/PackageCache/com.unity.burst/.Runtime/libburst-llvm-16.dylib
 *.7z
+Mollusketeers_clone_0/Library/PackageCache/com.unity.burst/.Runtime/libburst-llvm-16.dylib
